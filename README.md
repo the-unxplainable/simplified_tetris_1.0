@@ -16,5 +16,7 @@ Goals for Simplified Tetris 2.0:
     Add instant drop
     Add preview next piece
     Add music
+    
+For anyone who has spare time and is interested, I am happy to take on any advice or suggestions to improve my code.
 
 Thank you to professors Chris Piech and Mehran Sahami and the hundreds of Code in Place staff and Section Leaders and thousands of colleagues for a once in a lifetime experience.
